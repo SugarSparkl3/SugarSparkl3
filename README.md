@@ -24,6 +24,7 @@
       $\color{#AAEBF8}{\textsf{ꜝꜝdnเ :}}$</b> <br>
       $\color{#F8ECAA}{\textsf{base+wincest, sabrina carpenter, bbnomoney,}}$<br>
       $\color{#F6B560}{\textsf{sombr fans, larpers, under 13}}$<br>
+      $\color{#F6B560}{\textsf{i follow everyone!!!!!! follow me back if you want(please) if this distrats you then block me}}$<br>
 
 </div>
 
