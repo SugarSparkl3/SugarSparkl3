@@ -39,4 +39,25 @@ $\textcolor{#4f4441}{\text{⁔‿ ﹕ 𝘀𝗵e ⸝ her}}$ <img src="https://i.p
 <!-- text --> 
   <div>
     <p>
-    $\textcolor{#4f4441}{\text{✘  maเn fand}} \textcolor{#3d3d2f}{\text{𝓸m𝘀:}}$<br> $\textcolor{#4f4441}{\text{౿ ݁ . 𝗦𝘂𝗽𝗲𝗿ꬻ𝗮𝘁𝘂𝗿𝗮𝗹 ♡ 𝗛𝗮𝗿𝗿𝘆 𝗣𝗼𝘁𝘁}} \textcolor{#3d3d2f}{\text{𝗲𝗿, 𝗧𝗵𝗲}}\ \textcolor{#454d3b}{\text{𝗯𝗼𝘆𝘀, Yel}} \textcolor{#5e694f}{\text{l𝓸wjack}} \textcolor{788567}{\text{ets,}}$<br> $\textcolor{#4f4441}{\text{The walkinᧁ dᥱad, D𝓸ctor ωh𝓸}}\ \textcolor{#3d3d2f}{\text{ʚɞ 𝓖𝓸od}} \textcolor{#454d3b}{\text{Omens, I}} \textcolor{#5e694f}{\text{WTV, Th}} \textcolor{#788567}{\text{e Pitt}}$<br>
+    $\textcolor{#4f4441}{\text{✘  maเn fand}} \textcolor{#3d3d2f}{\text{𝓸m𝘀:}}$<br> $\textcolor{#4f4441}{\text{౿ ݁ . 𝗦𝘂𝗽𝗲𝗿ꬻ𝗮𝘁𝘂𝗿𝗮𝗹 ♡ 𝗛𝗮𝗿𝗿𝘆 𝗣𝗼𝘁𝘁}} \textcolor{#3d3d2f}{\text{𝗲𝗿,}}$ <img src="https://i.postimg.cc/q792CHxX/Tumblr-l-241143631440218.png" alt="волк" width="20"> $\textcolor{#3d3d2f}{\text{𝗧𝗵𝗲}}\ \textcolor{#454d3b}{\text{𝗯𝗼𝘆𝘀, Yel}} \textcolor{#5e694f}{\text{l𝓸wjack}} \textcolor{788567}{\text{ets,}}$<br> $\textcolor{#4f4441}{\text{The walkinᧁ dᥱad, D𝓸ctor ωh𝓸}}\ \textcolor{#3d3d2f}{\text{ʚɞ 𝓖𝓸od}} \textcolor{#454d3b}{\text{Omens, I}} \textcolor{#5e694f}{\text{WTV, Th}} \textcolor{#788567}{\text{e Pitt}}$<br>
+      
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- text --> 
+  <div>
+    <p>
+    $\color{#788567}{\textsf{♡   f⸝os + sharing status 3 . ❜}}$</b> <br>
+    $\color{#788567}{\textsf{𝓒𝗮𝘀𝘁เ𝗲𝗹 (SPN) - sharing ‹𝟹 }}$ <br>
+    $\color{#788567}{\textsf{ ૮ ◜ ‧̫ ◝ ა 𝗦𝓸𝗹𝗱𝗶𝗲𝗿 𝗯𝗼𝘆 (TB) - sharing }}$<br>
+    $\color{#788567}{\textsf{ℛᥱ𝗺𝘂𝘀 𝗟𝘂𝗽𝗶𝗻 (HP) - sharing  ฅ ฅ }}$</b> <br>
+    $\color{#788567}{\textsf{  ౿ ݁ . 𝗗𝗲𝗮𝗻 ω𝗶𝗻𝗰𝗵𝗲𝘀𝘁𝗲𝗿 (SPN) - sharing }}$ <br>
+
+   </div>
+
+   <div>
+     
+   ![Просмотры репозитория](https://komarev.com/ghpvc/?username=USERNAME&repo=REPOSITORY&label=werewolves&color=323d1d&style=flat)
