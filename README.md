@@ -10,7 +10,7 @@
 <!-- buttons -->
 <p align="center">
   <div>
-    <img src="https://i.postimg.cc/mD7Nm9zn/Tumblr-l-235502714775574.gif" width="10" ">
+    <img src="https://i.postimg.cc/mD7Nm9zn/Tumblr-l-235502714775574.gif" width="100" ">
     <img src="https://i.postimg.cc/DfdPsqKG/Tumblr-l-235507651967498.gif" width="80" ">
     <img src="https://i.postimg.cc/QxTMzrjP/Tumblr-l-239218634888104.gif" width="120" ">
    </div>
