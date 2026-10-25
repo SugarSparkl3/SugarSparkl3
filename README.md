@@ -60,4 +60,4 @@ $\textcolor{#4f4441}{\text{⁔‿ ﹕ 𝘀𝗵e ⸝ her}}$ <img src="https://i.p
 
    <div>
      
-   ![Просмотры репозитория](https://komarev.com/ghpvc/?username=USERNAME&repo=REPOSITORY&label=werewolves&color=323d1d&style=flat)
+   ![Просмотры репозитория](https://komarev.com/ghpvc/?username=SugarSparkl3&repo=REPOSITORY&label=werewolves&color=323d1d&style=flat)
